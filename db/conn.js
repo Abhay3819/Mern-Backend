@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 
-
+                         // OLD
 const DB = process.env.DATABASE
 
 mongoose
@@ -14,8 +14,7 @@ mongoose
     console.log(err);
   })
 
-
-       
+                     // NEW       
 // const configOptions = {
 //   useNewUrlParser: true,
 //   useUnifiedTopology: true,
