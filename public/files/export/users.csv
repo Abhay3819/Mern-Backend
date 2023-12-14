@@ -1,8 +1,7 @@
 FirstName,LastName,Email,Phone,Gender,Status,Profile,Location,DateCreated,DateUpdated
-abhay1,sharma,abhay@email.com,2929292929,Female,Active,image-1700338001496.WIN_20230326_00_10_30_Pro.jpg,gkp,Thu Nov 16 2023 07:37:32 GMT+0530 (India Standard Time),Sun Nov 19 2023 01:36:41 GMT+0530 (India Standard Time)
-ABCD,S,a@email.com,3333333333,Male,Active,image-1700287726769.WIN_20230326_00_08_07_Pro.jpg,GKP,Sat Nov 18 2023 11:38:48 GMT+0530 (India Standard Time),-
-Ram,Maurya,ram@gmail.com,8989899898,Male,InActive,image-1700332525538.WIN_20231110_22_59_12_Pro.jpg,bhauwapar,Sun Nov 19 2023 12:05:25 GMT+0530 (India Standard Time),-
-a,b,c@gmail.com,1989899890,Female,InActive,image-1700336677414.WIN_20230326_00_10_38_Pro.jpg,f,Sun Nov 19 2023 01:14:37 GMT+0530 (India Standard Time),-
-annu,sharma,annu@gmail.com,9934567898,Female,InActive,image-1700337812063.WIN_20230623_09_55_27_Pro.jpg,goa,Sun Nov 19 2023 01:33:51 GMT+0530 (India Standard Time),-
-rohit,mama,mama@gmail.com,7898905689,Male,Active,image-1700338196713.WIN_20230628_18_10_11_Pro.jpg,mc,Sun Nov 19 2023 01:39:58 GMT+0530 (India Standard Time),-
-Mayank,mallahan,mayank@gmail.com,7823451661,Male,InActive,image-1700386162327.WIN_20230623_09_55_44_Pro.jpg,gao,Sun Nov 19 2023 02:59:22 GMT+0530 (India Standard Time),-
+abhay1,sharma,abhay@email.com,2929292929,Female,InActive,image-1701348384689.CodeClause.jpg,gkp,Thu Nov 16 2023 07:37:32 GMT+0530 (India Standard Time),Thu Nov 30 2023 18:16:24 GMT+0530 (India Standard Time)
+ABCD,S,a@email.com,3333333333,Male,InActive,image-1701348352221.cartoon.png,GKP,Sat Nov 18 2023 11:38:48 GMT+0530 (India Standard Time),Thu Nov 30 2023 18:15:53 GMT+0530 (India Standard Time)
+Ram,Maurya,ram@gmail.com,8989899898,Male,Active,image-1701363861328.cartoon.png,bhauwapar,Sun Nov 19 2023 12:05:25 GMT+0530 (India Standard Time),Thu Nov 30 2023 10:34:21 GMT+0530 (India Standard Time)
+Mayank,mallahan,mayank@gmail.com,7823451661,Male,InActive,image-1701348266681.cartoon.png,gao,Sun Nov 19 2023 02:59:22 GMT+0530 (India Standard Time),Thu Nov 30 2023 18:14:27 GMT+0530 (India Standard Time)
+Munna,Sharma,munna@gmail.com,9956701809,Male,Active,image-1700417739954.WIN_20230326_00_08_07_Pro.jpg,Lucknow,Sun Nov 19 2023 11:45:40 GMT+0530 (India Standard Time),-
+vijaybhai,thakur,thakur@gmail.com,4545454545,Male,InActive,image-1701363594482.background.jpg,dps,Thu Nov 30 2023 17:47:00 GMT+0530 (India Standard Time),Thu Nov 30 2023 10:29:54 GMT+0530 (India Standard Time)
